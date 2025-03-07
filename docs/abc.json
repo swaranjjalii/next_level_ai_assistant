@@ -1,0 +1,90 @@
+{
+    "name": "Swaranjali Shahapure",
+    "contact": {
+        "email": "swaranjalishahapure004@gmail.com",
+        "phone": "8007103870",
+        "linkedin": "linkedin.com/in/swaranjali-shahapure-95853294",
+        "github": "github.com/swaranjalij"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Technology in Computer Science and Engineering",
+            "institution": "Dr. Babasaheb Ambedkar Technological University Lonere-Raigad",
+            "years": "2022 – 2025"
+        },
+        {
+            "degree": "High School Diploma in Computer Engineering",
+            "institution": "Purnmal Lahoti Government Polytechnic, Latur",
+            "years": "2019 – 2022"
+        },
+        {
+            "degree": "Secondary Education",
+            "institution": "Gramin Prashala, Madaj",
+            "years": "2009 – 2019"
+        }
+    ],
+    "technical_skills": {
+        "languages": [
+            "C++",
+            "Java",
+            "Python",
+            "MySQL",
+            "MongoDB"
+        ],
+        "tech_stack": [
+            "Android"
+        ],
+        "developer_tools": [
+            "ML",
+            "GitHub"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Virtual Mouse",
+            "description": "Developed a real-time gesture recognition system using Python and MediaPipe to control system functions like cursor movement, volume, brightness, and scrolling. It identifies hand gestures dynamically, enabling seamless human-computer interaction through intuitive hand movements."
+        },
+        {
+            "name": "Real Time Sign Language Detector",
+            "description": "Built a real-time sign language detection system with MediaPipe and OpenCV for live input processing. Used TensorFlow for accurate gesture predictions."
+        },
+        {
+            "name": "Smart Control of Traffic Light",
+            "description": "Smart Traffic Light Control using Artificial Intelligence optimizes traffic flow by analyzing real-time data through AI algorithms. It reduces congestion, minimizes wait times, and enhances urban mobility for a smoother and safer commuting experience."
+        }
+    ],
+    "internships": [
+        {
+            "role": "Java Programming Virtual Internship",
+            "company": "Code Alpha"
+        },
+        {
+            "role": "Python Programming Virtual Internship",
+            "company": "CipherByte Technologies"
+        }
+    ],
+    "certificates": [
+        "Data Analytics Essentials Cisco Networking Academy",
+        "PWC certified Power BI Job Simulation",
+        "AWS S3 Basics United Latino Students Association",
+        "Microsoft certified Build a Computer Vision app with Azure Cognitive Services",
+        "Programming using Java Infosys Springboard",
+        "Data Analytics and Visualization Job Simulation Accenture",
+        "Infosys Springboard Programming Fundamentals using Python"
+    ],
+    "extracurricular_activities": [
+        {
+            "role": "Active Member",
+            "organization": "Computer Engineering Students’ Association",
+            "description": "Contributed to organizing technical workshops and events, fostering collaboration and knowledge-sharing among peers."
+        },
+        {
+            "role": "Participant",
+            "event": "Smart India Hackathon (SIH)"
+        },
+        {
+            "role": "Learning Facilitator",
+            "program": "Google Cloud Arcade Facilitator Program"
+        }
+    ]
+}
