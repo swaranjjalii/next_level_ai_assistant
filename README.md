@@ -25,7 +25,7 @@ This project is an AI assistant that helps with various tasks, leveraging large 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/akshayram1/next_level_ai_assistant.git
+    git clone https://github.com/swaranjjalii/next_level_ai_assistant.git
     cd ai_assistant
     ```
 
