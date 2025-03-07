@@ -73,7 +73,7 @@ This project is an AI assistant that helps with various tasks, leveraging large 
 
 5.  **Watch the demo:**
 
-    Check out the [demo video](https://github.com/akshayram1/next_level_ai_assistant/blob/main/demo.mp4) to see the AI assistant in action.
+    Check out the [demo video]([(https://github.com/swaranjjalii/next_level_ai_assistant/blob/main/demo.mp4)]) to see the AI assistant in action.
 
 ## Project Structure
 
